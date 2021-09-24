@@ -1,0 +1,16 @@
+nav a{
+   padding: 10px;
+   margin:0;
+}
+
+nav li{ 
+    margin:20px 0 20px 20px;
+    text-align:center;
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    border:2px solid transparent;
+}
+nav li:hover{
+    border:2px solid white;
+}
